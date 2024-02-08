@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics, SQL  & Power BI
 - 🌱 I’m currently learning Alteryx
 - 💞️ I’m looking to collaborate on Skills related to SQL,PowerBi & I'm open to work on projects related to Alteryx
-- 📫 How to reach me - karthikanand.ka17@gmail.com/ 919035772789
+- 📫 How to reach me - karthikanand.ka25@gmail.com/ 918904342669
 
 <!---
 Karthik-Anand98/Karthik-Anand98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
